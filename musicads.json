@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 5,
+      "NativeAdRow"        : 6,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "ca-app-pub-4005010845730517/3022010854",
-        "AdMobInterstitial"   : "ca-app-pub-4005010845730517/3950296758",
-        "AdMobNative"         : "ca-app-pub-4005010845730517/2637215080",
-        "AdMobOpenAd"         : "ca-app-pub-4005010845730517/1708929183",
+        "AdMobBanner"         : "ca-app-pub-6953444308306842/3160879132",
+        "AdMobInterstitial"   : "ca-app-pub-6953444308306842/1633009192",
+        "AdMobNative"         : "ca-app-pub-6953444308306842/1720639102",
+        "AdMobOpenAd"         : "ca-app-pub-6953444308306842/4278519684",
         
         "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
         "FacebookInterstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
@@ -38,7 +38,7 @@
   
   "PopAdSetting": {
     "showPop"  : false,
-    "showClose": true,
+    "showClose": false,
     "adList": [
       {
         "preview": "https://play-lh.googleusercontent.com/1g98MAqAxCVng57WLrQpsZ4jr15tdyPPen9p4uQBg78dmvm9YwO6x4vHiuR57apK6_EO=w526-h296-rw",
